@@ -9,4 +9,4 @@ This code is an antivirus for g rename virus in windows, it detects and remove t
 
 # Want the source code?
 
-Contact me at [telegram](https://t.me/j0x49) to get the source code for free **Signed Agreement Required**. 
+Contact me at [telegram](https://t.me/thejulan) to get the source code for free **Signed Agreement Required**. 
